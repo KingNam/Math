@@ -1,0 +1,4 @@
+first line python is fun
+second line hello world
+third line
+fourth line
